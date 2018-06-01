@@ -16,6 +16,9 @@
 #### Ingress
 * [Heptio - Gimbal](https://github.com/heptio/gimbal)
 
+#### Misc
+* [Argo](https://applatix.com/open-source/argo/)
+
 
 ### Monitoring
 * [Thanos](https://github.com/improbable-eng/thanos) *(Prometheus at Scale)*
