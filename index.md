@@ -13,7 +13,7 @@
 
 ### Monitoring
 * [Thanos](https://github.com/improbable-eng/thanos) *(Prometheus at Scale)*
-  * *https://improbable.io/games/blog/thanos-prometheus-at-scale*
+  * *<https://improbable.io/games/blog/thanos-prometheus-at-scale>*
 
 
 ### Security
